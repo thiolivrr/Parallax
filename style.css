@@ -13,7 +13,7 @@ div {
 }
 
 #parallax1 {
-    background-image: url(Imagens/awesome.png);
+    background-image: url(Imagens/there.jpg);
     background-position: center;
 }
 
@@ -90,6 +90,6 @@ section > h3 {
 }
 
 #parallax4 {
-    background-image: url(Imagens/there.jpg);
+    background-image: url(Imagens/awesome.png);
     background-position: left;
 }
